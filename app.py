@@ -7,4 +7,4 @@ def hello_world():
    return 'Hello, World!'
 
 #Ex https://Itz-zaid:ghp_147bkkabcdefgh@github.com/Itz-zaid/anything
-os.system("git clone https://Soumyabrata-edu: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@github.com/Soumyabrata-edu/erisbot && cd erisbot && pip3 install -U -r requirements.txt && nohup python3 -m eris &")
+os.system("git clone https://Soumyabrata-edu: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@github.com/Soumyabrata-edu/erisnew && cd erisnew && pip3 install -U -r requirements.txt && nohup python3 -m eris &")
